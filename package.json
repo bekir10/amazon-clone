@@ -2,7 +2,7 @@
   "name": "amazon-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https//bekir10.github.io/amazon-clone",
+  "homepage": "https://bekir10.github.io/amazon-clone",
   "dependencies": {
     "@material-ui/core": "^4.11.2",
     "@material-ui/icons": "^4.11.2",
