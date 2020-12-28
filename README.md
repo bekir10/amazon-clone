@@ -13,4 +13,4 @@ Removing from basket
 Adding to basket
 
 
-link to website - https://bekir10.github.io/
+link to website - https://bekir10.github.io/amazon-clone/
